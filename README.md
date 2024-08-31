@@ -27,12 +27,12 @@
 
 在 colab 或 jupyter lab/notebook 中，可以使用底下的指令下載`linenotify.py`模組。
 
-如果可以執行 wget 指令，請執行：
+如果系統有`wget`工具，請執行下面的script。
 ```bash
 !wget https://raw.githubusercontent.com/vcdemy/linenotify/main/py/linenotify.py
 ```
 
-如果可以執行 curl 指令，請執行：
+如果系統有`curl`工具，請執行下面的script。
 ```bash
 !curl -o linenotify.py https://raw.githubusercontent.com/vcdemy/linenotify/main/py/linenotify.py
 ```

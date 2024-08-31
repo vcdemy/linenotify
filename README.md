@@ -21,11 +21,11 @@
 * 如何使用 Line Notify 傳送圖片？
 * 如何定期發送訊息？
 
-## 下載 linenotify.py
+## 下載`linenotify.py`
 
-我們寫好了一個 linenotify.py 模組，方便大家使用。
+我們寫好了一個`linenotify.py`模組，方便大家使用。
 
-在 colab 或 jupyter lab/notebook 中，可以使用底下的指令下載 linenotify.py 模組。
+在 colab 或 jupyter lab/notebook 中，可以使用底下的指令下載`linenotify.py`模組。
 
 如果可以執行 wget 指令，請執行：
 ```bash
@@ -37,7 +37,7 @@
 !curl -o linenotify.py https://raw.githubusercontent.com/vcdemy/linenotify/main/py/linenotify.py
 ```
 
-## 相關連結：
+## 相關連結
 
 * [Line Notify Help](https://help2.line.me/line_notify/web/pc?lang=zh-Hant)
 * [取得 Line Notify Token](https://notify-bot.line.me/en/)
